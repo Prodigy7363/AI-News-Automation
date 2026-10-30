@@ -1,0 +1,27 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Runtime data
+*.log
+*.state
+*.pid
+logs/
+state/
+
+# Local environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
