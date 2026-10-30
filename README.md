@@ -33,8 +33,6 @@ Linux · Hermes AI · Bash · Discord API · RSS · curl · SSH · Scheduled job
 | [automation/daily-security-intel-prompt.md](automation/daily-security-intel-prompt.md) | Reusable news-agent instructions |
 | [scripts/club_meeting_ask.sh](scripts/club_meeting_ask.sh) | Discord meeting message and reactions |
 | [scripts/kali-ssh-check.sh](scripts/kali-ssh-check.sh) | SSH connectivity state-change checks |
-| [scripts/shirt_voucher_reminder.sh](scripts/shirt_voucher_reminder.sh) | Example one-time reminder |
-| [scripts/pollbotplus_test.sh](scripts/pollbotplus_test.sh) | Example poll-bot test message |
 | [docs/architecture.md](docs/architecture.md) | System diagram and job descriptions |
 | [docs/setup.md](docs/setup.md) | Configuration and test instructions |
 
